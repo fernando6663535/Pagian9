@@ -1,0 +1,12 @@
+{
+  "name": "my-glitch-project",
+  "version": "1.0.0",
+  "description": "Un proyecto básico en Glitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
